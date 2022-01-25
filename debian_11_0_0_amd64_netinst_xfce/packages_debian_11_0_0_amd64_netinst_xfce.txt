@@ -35,7 +35,7 @@ apt-get update && apt-get upgrade && apt-get dist-upgrade
 ---------------------------------------------------------------------------------
 init:
 
-wget https://github.com/romainducrocq/folder/raw/master/debian_11_0_0_amd64_netinst_xfce/debian_11_0_0_amd64_netinst_xfce.tar.gz 
+wget https://github.com/romainducrocq/debian_install/raw/master/debian_11_0_0_amd64_netinst_xfce/debian_11_0_0_amd64_netinst_xfce.tar.gz 
 tar zxvf debian_11_0_0_amd64_netinst_xfce.tar.gz && cd debian_11_0_0_amd64_netinst_xfce/
 mv -v packages_debian_11_0_0_amd64_netinst_xfce.txt /opt/
 mv -v bin /opt/ && chmod -R +x /opt/bin/
