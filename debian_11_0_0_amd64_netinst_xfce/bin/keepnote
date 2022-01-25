@@ -1,0 +1,3 @@
+#!/bin/bash
+
+nohup /opt/keepnote-0.7.9/bin/keepnote &> ~/nohup.out &

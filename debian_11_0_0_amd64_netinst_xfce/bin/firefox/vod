@@ -1,0 +1,5 @@
+#!/bin/bash
+
+/opt/bin/firefox/netflix
+/opt/bin/firefox/primevideo
+/opt/bin/firefox/mycanal

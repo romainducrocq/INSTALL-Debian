@@ -1,0 +1,9 @@
+#!/bin/bash
+
+args=""
+for ARG in $( echo "${@}" | sed 's/ / /g' )
+do
+    args="${args} ${ARG}"
+done
+
+sudo -u romain nohup code --user-data-dir="~/.vscode-root"${args} &> ~/nohup.out &

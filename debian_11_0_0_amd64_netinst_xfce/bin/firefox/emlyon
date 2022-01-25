@@ -1,0 +1,5 @@
+#!/bin/bash
+
+/opt/bin/firefox/makersboard
+/opt/bin/firefox/brightspace
+/opt/bin/firefox/outlook

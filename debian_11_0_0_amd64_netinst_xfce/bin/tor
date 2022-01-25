@@ -1,0 +1,2 @@
+#!/bin/bash    
+sudo -u romain /opt/tor/tor-browser_en-US/Browser/start-tor-browser

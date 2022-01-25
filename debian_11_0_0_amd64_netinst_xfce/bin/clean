@@ -1,0 +1,4 @@
+#!/bin/bash
+
+nohup stacer &> ~/nohup.out &
+nohup bleachbit &> ~/nohup.out &

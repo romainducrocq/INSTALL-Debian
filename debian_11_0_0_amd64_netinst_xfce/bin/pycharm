@@ -1,0 +1,9 @@
+#!/bin/bash
+
+args=""
+for ARG in $( echo "${@}" | sed 's/ / /g' )
+do
+    args="${args} ${ARG}"
+done
+
+nohup /opt/pycharm-community-2021.2.2/bin/pycharm.sh${args} &> ~/nohup.out &
