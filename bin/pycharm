@@ -6,4 +6,4 @@ do
     args="${args} ${ARG}"
 done
 
-sudo -u romain nohup /opt/clion-2021.2.3/bin/clion.sh${args} &> ~/nohup.out &
+nohup /opt/pycharm-community-2022.1.1/bin/pycharm.sh${args} &> ~/nohup.out &

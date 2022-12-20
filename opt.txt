@@ -4,7 +4,9 @@
 ├── Caprine
 ├── clion-2021.2.3
 ├── Hakuneko
+├── ghc-9.2.4
 ├── idea-IC-212.5284.40
+├── lua-5.4.4
 ├── luarocks-3.7.0
 ├── packages_debian_11_0_0_amd64_netinst_xfce.txt
 ├── processing-4.0b3-linux64
@@ -13,4 +15,5 @@
 ├── rstudio-2021.09.0+351
 ├── sublime_text
 ├── tor
+├── vbam
 └── zoom

@@ -1,3 +1,0 @@
-#!/bin/bash
-
-nohup /opt/rstudio-2021.09.0+351/bin/rstudio &> ~/nohup.out &
